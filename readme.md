@@ -8,7 +8,7 @@ If you stumbled upon this repo, the above probably doesn't mean anything to you 
 
 ## Prerequisites
 
-This program _should_ run out-of-the box on most any machine with python 3.7+ installed. I say "should" because there are some idiosyncrasies - if you're using the anaconda distribution of python, you may run into problems importi ng matplotlib (I, to be honest, don't know why). If you're using a "normal" distribution you should be good to go, though you might need to import some common packages (like numpy, pandas, and matplotlib) using pip.
+This program _should_ run out-of-the box on most any machine with python 3.7+ installed. I say "should" because there are some idiosyncrasies - if you're using the anaconda distribution of python, you may run into problems importing matplotlib (I, to be honest, don't know why). If you're using a "normal" distribution you should be good to go, though you might need to import some common packages (like numpy, pandas, and matplotlib) using pip.
 
 ## What do I need to know before I run this?
 
